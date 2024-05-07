@@ -1,5 +1,9 @@
 # Frontend Mentor - Interactive rating component
 
+## click the link below
+
+https://rakeshcherry.github.io/interactive-rating-form/
+
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
